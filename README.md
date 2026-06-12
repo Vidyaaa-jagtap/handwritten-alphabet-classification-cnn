@@ -14,7 +14,20 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 - Google Colab
 
 ## Dataset
-Custom dataset created by capturing handwritten alphabet images.
+
+This project uses a custom handwritten alphabet dataset created manually for academic purposes.
+
+Dataset Details:
+
+26 classes (A–Z)
+100+ handwritten images
+Multiple handwriting styles and fonts
+Images organized into separate folders for each alphabet
+
+Due to GitHub file size limitations, the complete dataset is hosted on Google Drive.
+
+Dataset Link 
+(https://drive.google.com/drive/folders/1XcDrA2w2D2TkIof5B9nNKhUsE5RZdxUm?usp=sharing)
 
 ## Workflow
 1. Dataset Collection
