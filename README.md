@@ -1,5 +1,3 @@
-# handwritten-alphabet-classification-cnn
-
 # Handwritten Alphabet Classification System
 
 ## Project Overview
